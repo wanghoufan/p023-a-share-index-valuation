@@ -1,5 +1,7 @@
 # A股十一大指数 · 十年估值分位汇总
 
+[English](./README.en.md)
+
 > 一份单页 HTML 报告 + 配套数据说明，汇总 **11 只 A 股核心指数**（宽基 5 只 + 红利 6 只）的十年估值分位，并以「贵 / 一般 / 便宜」统一标注，便于一眼判断当前估值水位。
 
 🌐 **在线预览（部署版）**：[https://a-share-index-valuation-report.vercel.app/](https://a-share-index-valuation-report.vercel.app/)
