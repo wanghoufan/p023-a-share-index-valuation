@@ -6,11 +6,12 @@
 
 🌐 **Live version**: [https://a-share-index-valuation-report.vercel.app/](https://a-share-index-valuation-report.vercel.app/)
 
+![Homepage top](screenshots/preview-hero.png)
+
 ## Preview
 
 > Real screenshot of the deployed page (top of the homepage).
 
-![Homepage top](screenshots/preview-hero.png)
 
 ## Index list
 

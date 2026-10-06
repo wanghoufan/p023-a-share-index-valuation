@@ -6,11 +6,8 @@
 
 🌐 **在线预览（部署版）**：[https://a-share-index-valuation-report.vercel.app/](https://a-share-index-valuation-report.vercel.app/)
 
-## 网站预览
-
-> 以下为部署版页面的真实截图（首页 / 顶部）。
-
 ![首页顶部](screenshots/preview-hero.png)
+
 
 ## 指数清单
 
